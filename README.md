@@ -1,4 +1,8 @@
 # Kumpulan Tugas Pemrograman Perangkat Bergerak A
+Nama : Rizqi Rifaldi
+
+NRP : 05111940000068
+
 ## Tugas 1 Menghitung Luas
 [Menghitung Luas](https://github.com/Oblivion45/mobile-programming/tree/f355fa66012ff8a422e24234212c916e53f82fe9/1.%20Menghitung%20Luas/MyApplication)
 ## Tugas 2 Aplikasi Penjualan

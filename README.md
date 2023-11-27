@@ -16,5 +16,9 @@ NRP : 05111940000068
 
 Pada tugas 5, 6, dan 7 saya gabung dikarenakan penggunaannya saling berkaitan samu sama lain.
 
+## Tugas 8,9 Gmap, GeoCoder
+[Gmaps and Geocoder](https://github.com/Oblivion45/mobile-programming/tree/8de978588aef37644a818932f236f151cafa149f/8%2C9%20Gmap%2C%20Geocoder/Gmaps)
+
+Pada tugas 8 dan 9 saya gabung dikarenakan penggunaannya saling berkaitan samu sama lain.
 ## Tugas 12 JsonParser
 [Json Parser](https://github.com/Oblivion45/mobile-programming/tree/9e2b39727dea4af247c26fe3c23cba334f2e7efc/12.%20JsonParser/JSONParser)

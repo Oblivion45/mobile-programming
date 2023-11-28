@@ -22,3 +22,6 @@ Pada tugas 5, 6, dan 7 saya gabung dikarenakan penggunaannya saling berkaitan sa
 Pada tugas 8 dan 9 saya gabung dikarenakan penggunaannya saling berkaitan samu sama lain.
 ## Tugas 12 JsonParser
 [Json Parser](https://github.com/Oblivion45/mobile-programming/tree/9e2b39727dea4af247c26fe3c23cba334f2e7efc/12.%20JsonParser/JSONParser)
+
+## Tugas 13 Akses Kamera
+[Akses Kamera](https://github.com/Oblivion45/mobile-programming/tree/9fae504226bc98680ff5be6fbd1b2298614e7a06/13.%20Akses%20Kamera/CameraAccess)
